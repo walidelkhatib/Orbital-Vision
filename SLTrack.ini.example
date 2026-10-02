@@ -1,0 +1,6 @@
+# Rename to SLTrack.ini and fill in your space-track.org credentials.
+# This file is gitignored so real credentials are never committed.
+[configuration]
+username = your-space-track-username
+password = your-space-track-password
+output = /tmp

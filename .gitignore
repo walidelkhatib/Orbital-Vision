@@ -1,0 +1,11 @@
+# Space-Track credentials — never commit the real file
+SLTrack.ini
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Lambda build artifacts
+*.zip
